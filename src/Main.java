@@ -41,7 +41,7 @@ public class Main {
         //System.out.println("ans: " +ans);
 
 
-        System.out.println("output : " + z5);
+        System.out.println("the value of Polynomial is : " + z5);
 
 
     }
