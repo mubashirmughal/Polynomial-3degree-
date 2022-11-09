@@ -12,6 +12,11 @@ public class Main {
         int b;
         System.out.println("Enter b :");
         b = sc.nextInt();
+        int c;
+        System.out.println("Enter c :");
+        c = sc.nextInt();
+
+        System.out.println("" + a + b + c);
 
 
     }
