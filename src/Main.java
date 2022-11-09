@@ -16,7 +16,9 @@ public class Main {
         System.out.println("Enter c :");
         c = sc.nextInt();
 
-        System.out.println("" + a + b + c);
+        int z = (a+b);
+
+        System.out.println("" + z);
 
 
     }
